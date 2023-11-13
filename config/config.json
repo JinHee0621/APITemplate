@@ -1,0 +1,6 @@
+{
+    "run_mode" : "local",
+    "local" : {
+        "API_SERVICE_PORT" : 6500
+    }
+}
